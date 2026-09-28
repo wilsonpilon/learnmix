@@ -1,2 +1,2 @@
 # learnmix
-Mix C++, C and ASM on same project using Windows Program on CLANG and CMAKE (MSYS2)
+Mix C++, C, ASM and FORTRAN on same project using Windows Program on CLANG and CMAKE (MSYS2)
